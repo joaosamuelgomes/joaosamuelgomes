@@ -17,7 +17,7 @@
 ##
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=joaosamuelgomes&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=30" />
+<img src="https://github-readme-stats.vercel.app/api?username=joaosamuelgomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=30" />
 </div>
 
 
