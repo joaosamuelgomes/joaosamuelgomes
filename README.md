@@ -1,8 +1,10 @@
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
 <div align="center">
-  
-  <h1>Hi Dev! I'm João Samuel 👋 🚀</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=6704F7&center=true&width=550&lines=Hello+Dev!+I'm+Jo%C3%A3o+Samuel)](https://git.io/typing-svg)
+
   <p>🖥️ Current Work: Web development.</p>
   <p>👨‍🎓 Studying: Computer Science at <a href="https://www.unijui.edu.br">UNIJUÍ</a>.</p>
   <p>🌱 Learning: Javascript, Typescript, React.</p>
@@ -30,4 +32,4 @@
   <img align="center" alt="joaosamuelgomes-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
  
-
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
