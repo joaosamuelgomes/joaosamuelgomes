@@ -18,8 +18,10 @@
 
 ##
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=joaosamuelgomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=30" />
+<div align="center" >
+<img src="https://github-readme-stats.vercel.app/api?username=joaosamuelgomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=30" height=250 />
+&nbsp 
+<img src="https://lestat-stats.vercel.app/api/top-langs?username=joaosamuelgomes&theme=tokyonight&locale=en&langs_count=5" alt="joaosamuelgomes-language-stats" height=250 />
 </div>
 
 
@@ -32,4 +34,4 @@
   <img align="center" alt="joaosamuelgomes-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
  
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
