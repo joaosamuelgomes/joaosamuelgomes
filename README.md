@@ -19,9 +19,9 @@
 ##
 
 <div align="center" >
-<img src="https://github-readme-stats.vercel.app/api?username=joaosamuelgomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=30" height=250 />
+<img src="https://github-readme-stats-joaosamuelgomes.vercel.app/api?username=joaosamuelgomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=30" height=250 />
 &nbsp 
-<img src="https://lestat-stats.vercel.app/api/top-langs?username=joaosamuelgomes&theme=tokyonight&locale=en&langs_count=5" alt="joaosamuelgomes-language-stats" height=250 />
+<img src="https://github-readme-stats-joaosamuelgomes.vercel.app/api/top-langs?username=joaosamuelgomes&theme=tokyonight&locale=en&langs_count=5" alt="joaosamuelgomes-language-stats" height=250 />
 </div>
 
 
